@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @TECHOPC
-- 👀 I’m interested in programing in games
-- 🌱 I’m currently learning how to be a streamer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://linklist.bio/techo
+- 👋 Olá, sou @TECHOPC
+- 👀 Eu gosto de programar em jogos
+- 🌱 Atualmente estou aprendendo como ser um Streamer full time
+- 📫 Todos os links pra me achar https://linklist.bio/techo
 
 <!---
 TECHOPC/TECHOPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
