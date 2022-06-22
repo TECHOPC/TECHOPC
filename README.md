@@ -1,6 +1,6 @@
 - 👋 Olá, sou @TECHOPC
 - 👀 Eu gosto de programar em jogos
-- 🌱 Atualmente estou aprendendo como ser um Streamer full time
+- 🌱 Atualmente estou aprendendo Lua
 - 📫 Todos os links pra me achar https://linklist.bio/techo
 
 <!---
