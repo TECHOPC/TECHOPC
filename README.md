@@ -1,7 +1,7 @@
 - 👋 Olá, sou @TECHOPC
 - 👀 Eu gosto de programar em jogos
 - 🌱 Atualmente estou aprendendo Lua
-- 📫 Todos os links pra me achar https://linklist.bio/techo
+<!---  - 📫 --->
 
 <!---
 TECHOPC/TECHOPC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
