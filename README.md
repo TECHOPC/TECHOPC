@@ -1,7 +1,6 @@
 - 👋 Olá, sou @TECHOPC
 - 👀 Eu gosto de programar em jogos
-- junior em Lua
-- junior em python
+- Brincando com Lua e python
 - 🌱 Atualmente estou aprendendo Python
 <!---  - 📫 --->
 
