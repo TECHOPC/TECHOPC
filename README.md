@@ -1,8 +1,19 @@
 - 👋 Olá, sou @TECHOPC.
 - 👀 Eu gosto de programar em jogos.
-- Brincando com Lua e python,aprendendo godot.
-- 🌱 Atualmente estou fazendo meu jogo na godot 
+-  Brincando com Lua e python,aprendendo godot.
+- 🌱 Atualmente estudando GOlang
 
+- EM BUSCA DE VAGA Jr
+
+
+- Conhecimentos
+  Sqlite
+  Python
+  Mips
+  Lua
+  linux
+  Godot 4.1
+  
 
 links
 insta: https://www.instagram.com/techo_pc/
