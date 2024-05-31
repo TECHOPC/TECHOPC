@@ -1,7 +1,7 @@
 - 👋 Olá, sou @TECHOPC.
 - 👀 Eu gosto de programar em jogos.
 -  Brincando com Lua e python,aprendendo godot.
-- 🌱 Atualmente estudando GOlang
+- 🌱 Atualmente estudando C#
 
 - EM BUSCA DE VAGA Jr
 
