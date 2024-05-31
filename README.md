@@ -2,9 +2,9 @@
 - 👀 Eu gosto de programar em jogos.
 - 🌱 Atualmente estudando C#
 
-- EM BUSCA DE VAGA Jr
+- :male_detective: Em busca de vaga Jr
 
-- Conhecimentos
+- :book: Conhecimentos
   Sqlite
   Python
   Mips
@@ -13,7 +13,7 @@
   Godot 4.1
   
 
-links
+-:link: links
 insta: https://www.instagram.com/techo_pc/
 youtube: https://www.youtube.com/channel/UCMBSKO1nn-uXBwn9Sy_reDw
 <!---  - 📫 --->
