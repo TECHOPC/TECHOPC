@@ -4,7 +4,7 @@
 - :male_detective: Em busca de vaga Jr
 
 - :book: Conhecimentos
-  Sqlite
+  SQLite
   Python
   Mips
   Lua
