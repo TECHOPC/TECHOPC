@@ -4,17 +4,17 @@
 - :male_detective: Em busca de vaga Jr
 
 - :book: Conhecimentos
-  SQLite
-  Python
-  Mips
-  Lua
-  linux
-  Godot 4.1
+-- SQLite
+-- Python
+-- Mips
+-- Lua
+-- linux
+-- Godot 4.1
   
 
 - :link: links
-  insta: https://www.instagram.com/techo_pc/
-  youtube: https://www.youtube.com/channel/UCMBSKO1nn-uXBwn9Sy_reDw
+-- insta: https://www.instagram.com/techo_pc/
+-- youtube: https://www.youtube.com/channel/UCMBSKO1nn-uXBwn9Sy_reDw
 <!---  - 📫 --->
 
 <!---
