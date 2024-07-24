@@ -1,5 +1,4 @@
 - 👋 Olá, sou @TECHOPC
-- 🌱 Atualmente estudando C#
 
 - :male_detective: Em busca de vaga Jr
 
