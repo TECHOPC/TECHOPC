@@ -1,7 +1,5 @@
 - 👋 Olá, sou @TECHOPC
 
-- :male_detective: Em busca de vaga Jr
-
 - :book: Conhecimentos
 -- SQLite
 -- Python
